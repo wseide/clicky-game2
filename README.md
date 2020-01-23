@@ -10,7 +10,7 @@ The Clicky Game app was created with
 * Github Pages
 * React
 
-## Deployed on Github Pages
+## Deployed on Heroku
 [Go to APP](https://morning-depths-79151.herokuapp.com/)
 
 
