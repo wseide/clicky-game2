@@ -1,8 +1,7 @@
 # Clicky Game
-Developed with React!
-Click on an image to earn points, but don't click on any more than once!
+Developed with React! by Wismy Seide
 
-![alt text](./ForReadMe.png)
+Click on an image to earn points, but don't click on any more than once!
 
 ## Technologies
 The Clicky Game app was created with
@@ -12,10 +11,9 @@ The Clicky Game app was created with
 * Github Pages
 * React
 
-## Deployed on Github Pages
-[Go to APP]()
+## Deployed on Heroku
+[Go to APP](https://morning-depths-79151.herokuapp.com/)
 
-## Github
-[Look at Code]()
+
 
 

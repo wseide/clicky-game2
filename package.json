@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "homepage": "https://github.com/wseide/clicky-game2#readme",
+=======
+  "homepage": "https://wseide.github.io/clicky-game2",
+>>>>>>> 7070cd8f17fe11afc3dff79d28e9e8d3ea5faba9
   "name": "clicky-game",
   "version": "0.1.0",
   "private": true,
