@@ -2,7 +2,7 @@
 Developed with React!
 Click on an image to earn points, but don't click on any more than once!
 
-![alt text](./ForReadMe.png)
+![alt text](./)
 
 ## Technologies
 The Clicky Game app was created with
