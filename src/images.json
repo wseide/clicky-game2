@@ -1,0 +1,51 @@
+[
+    {
+        "fileName": "Bangalore.png",
+        "id": 1
+    },
+    {
+        "fileName": "Bloodhound.png",
+        "id": 2
+    },
+    {
+        "fileName": "Caustic.png",
+        "id": 3
+    },
+    {
+        "fileName": "Pikachu.png",
+        "id": 4
+    },
+    {
+        "fileName": "Gibraltar.png",
+        "id": 5
+    },
+    {
+        "fileName": "Lifeline.png",
+        "id": 6
+    },
+    {
+        "fileName": "Mirage.png",
+        "id": 7
+        
+    },
+    {
+        "fileName": "Nomad.png",
+        "id": 8
+    },
+    {
+        "fileName": "Octane.png",
+        "id": 9
+    },
+    {
+        "fileName": "Pathfinder.png",
+        "id": 10
+    },
+    {
+        "fileName": "Wattson.png",
+        "id": 11
+    },
+    {
+        "fileName": "Wraith.png",
+        "id": 12
+    }
+]
