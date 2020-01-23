@@ -1,5 +1,6 @@
 # Clicky Game
 Developed with React! by Wismy Seide
+
 Click on an image to earn points, but don't click on any more than once!
 
 ## Technologies
