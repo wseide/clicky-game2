@@ -1,5 +1,5 @@
 {
-  "homepage": "",
+  "homepage": "https://github.com/wseide/clicky-game2#readme",
   "name": "clicky-game",
   "version": "0.1.0",
   "private": true,
@@ -31,5 +31,16 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "Developed with React! Click on an image to earn points, but don't click on any more than once!",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wseide/clicky-game2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wseide/clicky-game2/issues"
   }
 }
